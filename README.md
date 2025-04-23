@@ -1,1 +1,1 @@
-# partyplaner
+# partyplanner
